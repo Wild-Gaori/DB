@@ -5,4 +5,4 @@
 
 ## 🖥️About This Repository
 
-이 리포지토리는 QnArt 앱 제작에 사용한 MySQL DB의 명화 작품, 작가, 도슨트 정보 sql파일을 제공합니다.
+이 리포지토리는 QnArt 앱 제작에 사용한 명화 작품/작가/도슨트 정보의 sql파일을 제공합니다.
